@@ -1,0 +1,16 @@
+CARTOON README
+
+Final Submission
+
+overView: simple animation of a portal man jumping through the blue portal and re appearing in the
+orange portal seemingly teleporting between the two, the man can be sped up or slowed down by the user
+using A & D on the keyboard,
+
+Design Choices: the design was straight forward, the Lambda expressions really clean up the design
+and the naming conventions are easily readable. had some trouble connecting the composite shape to the
+root pane but used an unconventional format to link them.
+
+known bugs : there is a small glitch where the figure appears on the opposite line of movement than it should
+only occurs when switching between the back of the pane to the front
+
+hours - 2
